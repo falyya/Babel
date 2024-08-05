@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "core-js": "^3.38.0"
+  },
+  "scripts": {
+    "build": "babel src - dist"
+  }
+}
+
+
